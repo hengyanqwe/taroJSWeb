@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64ccfa49-1208-4fae-94fd-085127f9cacd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/common/myAxios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/node_modules/@react-native-community/cli-platform-android">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/node_modules/react-native-gradle-plugin">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ANYzPOuDtIT6KoxPGOYtNZawlL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\taroJSWeb\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\taroJSWeb\node_modules\stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.36238533" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\taroJSWeb\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\taroJSWeb\src\common" />
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src\pages\user\item" />
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src\pages" />
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src\pages\main" />
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src\icon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src\pages" />
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src\pages\main" />
+      <recent name="C:\Users\LC'studio\Documents\WeChat Files\wxid_icdmyb37uocy22\FileStorage\MsgAttach\71f31baa92413c7ff77d620dcc3bd710\File\2022-06\test05\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev:weapp">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build:weapp" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:weapp" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev:weapp" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev:weapp" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev:weapp" />
+      <item itemvalue="npm.build:weapp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64ccfa49-1208-4fae-94fd-085127f9cacd" name="Default Changelist" comment="" />
+      <created>1654851771758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654851771758</updated>
+      <workItem from="1654851772807" duration="1791000" />
+      <workItem from="1655094640073" duration="780000" />
+      <workItem from="1655095442297" duration="106000" />
+      <workItem from="1655095567484" duration="199000" />
+      <workItem from="1655095784078" duration="11358000" />
+      <workItem from="1655112071318" duration="449000" />
+      <workItem from="1655112578802" duration="27099000" />
+      <workItem from="1655182463142" duration="6676000" />
+      <workItem from="1655192829509" duration="415000" />
+      <workItem from="1655193460799" duration="196000" />
+      <workItem from="1655193860016" duration="628000" />
+      <workItem from="1655275054663" duration="43000" />
+      <workItem from="1655275170092" duration="346000" />
+      <workItem from="1655275528418" duration="587000" />
+      <workItem from="1655276132532" duration="445000" />
+      <workItem from="1655276594770" duration="70000" />
+      <workItem from="1655276695841" duration="61000" />
+      <workItem from="1655276768220" duration="3556000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1655276023500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655276023500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
